@@ -1,0 +1,23 @@
+.background-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background-color: #25262c;
+}
+.heading {
+  color: red;
+}
+.central-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image-container {
+  background-color: #1b1c22;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 20px;
+}
